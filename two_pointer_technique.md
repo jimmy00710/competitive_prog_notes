@@ -1,5 +1,8 @@
 # Two Pointer Technique - Solving Array Problems at Light Speed 
 
+<a href="https://medium.com/swlh/two-pointer-technique-solving-array-problems-at-light-speed-56a77ee83d16">Reference</a>
+
+
 Two pointer technique is commonly used to solve array problems very <b><i>efficiently</b></i> <br>
 
 Whenever an array question deals with finding two numbers in an array that satisfy a certain condition, either directly or indirectly two-pointer should be the first strategy that comes to mind. This method rules out large numbers of redundant potential solutions. Although it is tricky to construct, by following certain principles, two-pointer is a simple and powerful technique to implement.<br>
